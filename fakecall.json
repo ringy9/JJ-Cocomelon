@@ -1,0 +1,42 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "b01610afd38bd9f6",
+            "max_int": "5f1ac79d14960a4a",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "JJ Cocomelon",
+            "photo": "https://i.postimg.cc/hj5SYQPh/73a7c4cd89f9274952601585cbddebb8.jpg",
+            "voice": "https://ringy9.github.io/JJ-Cocomelon/audio.wav",
+            "video": "https://ringy9.github.io/JJ-Cocomelon/cocoVideo.mp4",
+            "stories": [
+               "https://i.postimg.cc/05hSMbd8/4177367f6a9de63d8e94f7e8c9718a8b.jpg",
+"https://i.postimg.cc/kM28gxS1/46070f3a38034abf08d281672df8f827.jpg",
+"https://i.postimg.cc/BtWJSWF0/4859161b2b77e98ea84d07060316eedd.jpg",
+"https://i.postimg.cc/hj5SYQPh/73a7c4cd89f9274952601585cbddebb8.jpg",
+"https://i.postimg.cc/GhYykdqv/83c04d7f4e24c219a709540674b7a9a2.jpg"
+               
+            ],
+            "wallpapers": [
+              " https://i.postimg.cc/vTxQw8ch/0613507df7e4bd83220b1d232ecd960b.jpg",
+"https://i.postimg.cc/tTTqDNbL/07a51e116c8f07549c10b0d3038ee72e.jpg",
+"https://i.postimg.cc/05hSMbd8/4177367f6a9de63d8e94f7e8c9718a8b.jpg",
+"https://i.postimg.cc/kM28gxS1/46070f3a38034abf08d281672df8f827.jpg",
+"https://i.postimg.cc/BtWJSWF0/4859161b2b77e98ea84d07060316eedd.jpg",
+"https://i.postimg.cc/hj5SYQPh/73a7c4cd89f9274952601585cbddebb8.jpg",
+"https://i.postimg.cc/GhYykdqv/83c04d7f4e24c219a709540674b7a9a2.jpg"
+
+            ]
+          
+        }
+    ]
+}
